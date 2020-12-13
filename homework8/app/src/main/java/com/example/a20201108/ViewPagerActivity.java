@@ -49,6 +49,6 @@ public class ViewPagerActivity extends AppCompatActivity implements ViewPager.On
 
     // 在翻页结束后触发。arg0表示当前滑到了哪一个页面
     public void onPageSelected(int arg0) {
-        Toast.makeText(this, "您翻到的手机品牌是：" + goodsList.get(arg0).name, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "您翻到的洗发水品牌是：" + goodsList.get(arg0).name, Toast.LENGTH_SHORT).show();
     }
 }

@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         tv_count = findViewById(R.id.tv_count);
         ll_channel = findViewById(R.id.ll_channel);
         findViewById(R.id.iv_cart).setOnClickListener(this);
-        tv_title.setText("张镇宇的商场");
+        tv_title.setText("张皓的商场");
     }
 
     @Override

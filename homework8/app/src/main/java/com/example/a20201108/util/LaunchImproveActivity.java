@@ -10,8 +10,8 @@ import com.example.a20201108.adapter.LaunchImproveAdapter;
 
 public class LaunchImproveActivity extends AppCompatActivity {
     // 声明引导页面的图片数组
-    private int[] lanuchImageArray = {R.drawable.shampoo1,
-            R.drawable.shampoo2, R.drawable.shampoo3, R.drawable.shampoo3};
+    private int[] lanuchImageArray = {R.drawable.colormakeup1,
+            R.drawable.colormakeup2, R.drawable.colormakeup3, R.drawable.colormakeup4};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
