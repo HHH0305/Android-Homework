@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.youth.banner:banner:1.4.10@aar">
+    <CLASSES>
+      <root url="file://E:/gradle-6.1.1-all/caches/transforms-2/files-2.1/8441591f4e18ca742bea1f84af779801/jetified-banner-1.4.10/AndroidManifest.xml" />
+      <root url="jar://E:/gradle-6.1.1-all/caches/transforms-2/files-2.1/8441591f4e18ca742bea1f84af779801/jetified-banner-1.4.10/jars/classes.jar!/" />
+      <root url="file://E:/gradle-6.1.1-all/caches/transforms-2/files-2.1/8441591f4e18ca742bea1f84af779801/jetified-banner-1.4.10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/gradle-6.1.1-all/caches/modules-2/files-2.1/com.youth.banner/banner/1.4.10/eae835ac9b7ca690031f2b42fbcc88edab66ce5f/banner-1.4.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

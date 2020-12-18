@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Johnjson:GuideActivity:1.0.0@aar">
+    <CLASSES>
+      <root url="file://E:/gradle-6.1.1-all/caches/transforms-2/files-2.1/3d9b584714d62d31901a5f32f7e9e4f2/jetified-GuideActivity-1.0.0/AndroidManifest.xml" />
+      <root url="jar://E:/gradle-6.1.1-all/caches/transforms-2/files-2.1/3d9b584714d62d31901a5f32f7e9e4f2/jetified-GuideActivity-1.0.0/jars/classes.jar!/" />
+      <root url="file://E:/gradle-6.1.1-all/caches/transforms-2/files-2.1/3d9b584714d62d31901a5f32f7e9e4f2/jetified-GuideActivity-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
